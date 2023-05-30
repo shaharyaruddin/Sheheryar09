@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheheryar&label=Profile%20views&color=0e75b6&style=flat" alt="sheheryar" /> </p>
 
-- 🌱 I’m currently learning **HTML5,CSS3,Bootstrap and JavaScript**
+- 🌱 I’m currently learning **HTML5,CSS3,Bootstrap,JavaScript and ReactJS**
 
 - 📫 How to reach me **sheheryark505@gmail.com**
 
